@@ -1,2 +1,3 @@
-# hunar-c-c-
+# hunar c/c++
+
 task1
